@@ -1,0 +1,12 @@
+.env
+.env*
+node_modules/
+dist/
+build/
+*.log
+*.tmp
+.DS_Store
+.vscode/
+*.zip
+*.dll
+*.cache
